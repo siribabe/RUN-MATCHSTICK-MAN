@@ -1,6 +1,6 @@
 # RUN! MATCHSTICK MAN
 
-![Game Screenshot](image/screenshot.png) <!-- Optional: Add a screenshot of your game -->
+![screenshot](https://github.com/user-attachments/assets/dd483f72-dcf5-46da-a223-27d045d57c92)
 
 ## Description
 **RUN! MATCHSTICK MAN** is an interactive game developed using Python and Pygame. The game features a stickman character (Marie) who must navigate through obstacles while learning to make optimal decisions using Q-learning, a reinforcement learning algorithm. The project demonstrates the integration of multimedia elements (audio and images) and generates visual outputs stored in the `result_pic` folder.
