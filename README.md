@@ -1,5 +1,4 @@
-# RUN-MATCHSTICK-MAN
-CDS524 Assignment1
+# RUN! MATCHSTICK MAN
 
 ![Game Screenshot](image/screenshot.png) <!-- Optional: Add a screenshot of your game -->
 
